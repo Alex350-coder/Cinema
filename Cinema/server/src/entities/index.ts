@@ -1,0 +1,11 @@
+export { Role } from './role.entity';
+export { User } from './user.entity';
+export { Genre } from './genre.entity';
+export { Movie } from './movie.entity';
+export { Room } from './room.entity';
+export { Screening } from './screening.entity';
+export { Seat } from './seat.entity';
+export { Reservation } from './reservation.entity';
+export { ReservationSeat } from './reservation-seat.entity';
+export { Snack } from './snack.entity';
+export { ReservationSnack } from './reservation-snack.entity';
